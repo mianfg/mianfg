@@ -1,6 +1,6 @@
-<p align="right"><strong>ES</strong>&nbsp;&nbsp;&nbsp;<a href="https://github.com/mianfg/mianfg/blob/master/README.es.md">Leer en español</a></p>
-
 [![mianfg](https://mianfg.me/static/img/branding/logos/favicon-32x32.png)](https://mianfg.me)  
+
+<p align="right"><strong>ES</strong>&nbsp;&nbsp;&nbsp;<a href="https://github.com/mianfg/mianfg/blob/master/README.es.md">Leer en español</a></p>
 
 ## Hi 👋, nice to meet you! 😄
 
