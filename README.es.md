@@ -1,4 +1,4 @@
-<p align="right"><strong>ES</strong>&nbsp;&nbsp;&nbsp;<a href="https://github.com/mianfg/mianfg/blob/master/README.es.md">Leer en español</a></p>
+<p align="right"><strong>EN</strong>&nbsp;&nbsp;&nbsp;<a href="https://github.com/mianfg/mianfg/blob/master/README.md">Read in English</a></p>
 
 [![mianfg](https://mianfg.me/static/img/branding/logos/favicon-32x32.png)](https://mianfg.me)  
 
