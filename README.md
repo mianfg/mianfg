@@ -17,7 +17,7 @@ I am **Miguel Ángel Fernández Gutiérrez** ([@mianfg](https://mianfg.me)), a U
 
 ### 🔭 I’m currently working on ...
 
-* Something special for this README! 🤫
+* **Fullstack developer** at [CrowdFarming](https://crowdfarming.com).
 * Some other, secret stuff...
   > But don't worry, it'll be here ASAP! 😉
 
