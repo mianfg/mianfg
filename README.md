@@ -6,23 +6,26 @@
 
 ## Hi 👋, nice to meet you! 😄
 
-I am **Miguel Ángel Fernández Gutiérrez** ([@mianfg](https://mianfg.me)), a University student based in Granada, Spain. Apart from that, and among other things, I dedicate my spare time to develop various projects. Most of them are publicly available here, in my GitHub profile.
+I am **Miguel Ángel Fernández Gutiérrez** ([@mianfg](https://mianfg.me)), Consulting Engineer in Cisco, trained as a computer scientist and mathematician. Apart from that, and among other things, I dedicate my spare time to develop various projects. Most of them are publicly available here, in my GitHub profile.
 
 > I strongly encourage you to **take a look at [my website](https://mianfg.me)**, where you will find more information about me, my career, my projects, and even some more interesting things I have been working on!
 
-### 🎓 I'm currently enrolled in ...
+### 🎓 I have studied / I am studying ...
 
-* Student of the **Degree in Computer Science Engineering and Mathematics** from Universidad de Granada (Spain).
+* **Cisco Graduate Program** in Lisbon
+* **Cisco Incubator Program 9.0** trainee
+* Currently finishing thesis in **Degree in Computer Science Engineering and Mathematics** from Universidad de Granada (Spain).
   > To ease things for future students and publish some of the interesting things I have made as part of my career, I have decided to publish all the content I have produced [here](https://github.com/mianfg/DGIIM).
 
 ### 🔭 I’m currently working on ...
 
-* **Data Scientist** at [CrowdFarming](https://crowdfarming.com).
+* **Consulting Engineer** in [Cisco](https://cisco.com).
 * Some other, secret stuff...
   > But don't worry, it'll be here ASAP! 😉
 
 ###### Previous work experience
 
+* **Data Scientist** at [CrowdFarming](https://crowdfarming.com).
 * **Ionic App Developer** at [CrowdFarming](https://crowdfarming.com).
 * **IT lead** at [@yoteayudoconlasele](https://yoteayudoconlasele.es) (non-profit project).
 
