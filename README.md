@@ -6,7 +6,7 @@
 
 ## Hi 👋, nice to meet you! 😄
 
-I am **Miguel Ángel Fernández Gutiérrez** ([@mianfg](https://mianfg.me)), Consulting Engineer in Cisco, trained as a computer scientist and mathematician. Apart from that, and among other things, I dedicate my spare time to develop various projects. Most of them are publicly available here, in my GitHub profile.
+I am **Miguel Ángel Fernández Gutiérrez** ([@mianfg](https://mianfg.me)), Consulting Engineer in Cisco, trained as a **computer scientist and mathematician**. Apart from that, and among other things, I dedicate my spare time to develop various projects. Most of them are publicly available here, in my GitHub profile.
 
 > I strongly encourage you to **take a look at [my website](https://mianfg.me)**, where you will find more information about me, my career, my projects, and even some more interesting things I have been working on!
 
