@@ -31,7 +31,8 @@ I am **Miguel Ángel Fernández Gutiérrez** ([@mianfg](https://mianfg.me)), Con
 
 ### 📜 I have some certifications...
 
-* [**Cisco Certified Network Associate**](https://www.credly.com/badges/f79f8cb4-3c50-4527-b676-364b54820981) (CCNA 200-301), Cisco.
+* [**Cisco Certified Network Associate**](https://www.credly.com/badges/1ca3102f-ed05-4316-9e25-49796d7cb75a) (CCNA, 200-301), Cisco.
+* [**Cisco Certified DevNet Associate**](https://www.credly.com/badges/67d52674-2f97-4230-86e5-544ec789e396) (DEVASC, 200-901), Cisco.
 
 ### 👯 I’m looking to collaborate on ...
 
