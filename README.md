@@ -20,6 +20,7 @@ I am **Miguel Ángel Fernández Gutiérrez** ([@mianfg](https://mianfg.me)), Con
 ### 🔭 I’m currently working on ...
 
 * **Consulting Engineer** in [Cisco](https://cisco.com).
+* My **dissertation thesis**, about **Gödel's Incompleteness Theorems** both from a mathematical perspective (Gödel numbering) and from a computer science perspective (using a subset of Python programs, equivalent to Turing machines). _Really interesting stuff!!_ ☺️
 * Some other, secret stuff...
   > But don't worry, it'll be here ASAP! 😉
 
