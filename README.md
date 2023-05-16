@@ -6,7 +6,7 @@
 
 ## Hi 👋, nice to meet you! 😄
 
-I am **Miguel Ángel Fernández Gutiérrez** ([@mianfg](https://mianfg.me)), Consulting Engineer in Cisco, trained as a **computer scientist and mathematician**. Apart from that, and among other things, I dedicate my spare time to develop various projects. Most of them are publicly available here, in my GitHub profile.
+I am **Miguel Ángel Fernández Gutiérrez** ([@mianfg](https://mianfg.me)), Software Consulting Engineer in Cisco, trained as a **computer scientist and mathematician**. Apart from that, and among other things, I dedicate my spare time to develop various projects. Most of them are publicly available here, in my GitHub profile.
 
 > I strongly encourage you to **take a look at [my website](https://mianfg.me)**, where you will find more information about me, my career, my projects, and even some more interesting things I have been working on!
 
@@ -19,7 +19,7 @@ I am **Miguel Ángel Fernández Gutiérrez** ([@mianfg](https://mianfg.me)), Con
 
 ### 🔭 I’m currently working on ...
 
-* **Consulting Engineer** in [Cisco](https://cisco.com).
+* **Software Consulting Engineer** in [Cisco](https://cisco.com).
 * My **dissertation thesis** about **Gödel's Incompleteness Theorems**, from an algorithmic perspective (using Python programs!), which you can find [here (under development)](https://github.com/mianfg-DGIIM/TFG). _Really interesting stuff!!_ ☺️
 * Some other, secret stuff...
   > But don't worry, it'll be here ASAP! 😉
