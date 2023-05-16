@@ -15,7 +15,7 @@ I am **Miguel Ángel Fernández Gutiérrez** ([@mianfg](https://mianfg.me)), Con
 * **Cisco Graduate Program** in Lisbon
 * **Cisco Incubator Program 9.0** trainee
 * Currently finishing thesis in **Degree in Computer Science Engineering and Mathematics** from Universidad de Granada (Spain).
-  > To ease things for future students and publish some of the interesting things I have made as part of my career, I have decided to publish all the content I have produced [here](https://github.com/mianfg/DGIIM).
+  > To ease things for future students and publish some of the interesting things I have made as part of my career, I have decided to publish all the content I have produced [here](https://github.com/mianfg-DGIIM).
 
 ### 🔭 I’m currently working on ...
 
@@ -37,7 +37,7 @@ I am **Miguel Ángel Fernández Gutiérrez** ([@mianfg](https://mianfg.me)), Con
 
 ### 👯 I’m looking to collaborate on ...
 
-**Anything, really!** 😆 I love giving life to ideas, especially if they are related to social issues. If you have any idea and need help, contact me via [Twitter](https://go.mianfg.me/twitter-dm) or [email](mailto:hello@mianfg.me).
+**Anything, really!** 😆 I love giving life to ideas, especially if they are related to social issues. If you have any idea and need help, contact me via [Twitter](https://twitter.com/messages/1225267062-1225267062?recipient_id=1225267062) or [email](mailto:hello@mianfg.me).
 
 ### 💬 My main interests are / 🌱 I’m currently learning ...
 
