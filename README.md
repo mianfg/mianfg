@@ -61,59 +61,90 @@ I am continuously learning new technologies and platforms. But I also have lots 
 
 ### 👷 I work with ...
 
-> **Programming languages** I comfortably use
-> 
+> **Programming languages**
+>
 > [![Python](https://img.shields.io/badge/python-%233776ab.svg?&style=for-the-badge&logo=python&logoColor=white)](https://github.com/mianfg?tab=repositories&language=python)
-[![R](https://img.shields.io/badge/r-%23165CAA.svg?&style=for-the-badge&logo=r&logoColor=white)](https://github.com/mianfg?tab=repositories&language=r)
 [![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/mianfg?tab=repositories&language=typescript)
 [![C++](https://img.shields.io/badge/c%2B%2B-%2300599c.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/mianfg?tab=repositories&language=c%2B%2B)
+[![R](https://img.shields.io/badge/r-%23165CAA.svg?&style=for-the-badge&logo=r&logoColor=white)](https://github.com/mianfg?tab=repositories&language=r)
 [![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/mianfg?tab=repositories&language=javascript)
 [![C](https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black)](https://github.com/mianfg?tab=repositories&language=c)
 [![Java](https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white)](https://github.com/mianfg?tab=repositories&language=java)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/mianfg?tab=repositories&language=ruby)
 
-> **Frameworks** I work with
-> 
-> [![Ionic](https://img.shields.io/badge/ionic-%233880FF.svg?&style=for-the-badge&logo=ionic&logoColor=white)](#)
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)](#)
-[![Flask](https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white)](#)
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)](#)
-[![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)](#)
-[![Vue.js](https://img.shields.io/badge/vue.js-%2342B983.svg?&style=for-the-badge&logo=vue.js&logoColor=white)](#)
 
-> **Tools** I regularly use
+> **Data science** libraries and tools
 > 
-> [![pandas](https://img.shields.io/badge/pandas-%23120751.svg?&style=for-the-badge&logo=pandas&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](#)
+> [![Jupyter](https://img.shields.io/badge/jupyter-%23EB7325.svg?&style=for-the-badge&logo=jupyter&logoColor=white)](#)
+[![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)](#)
+[![pandas](https://img.shields.io/badge/pandas-%23120751.svg?&style=for-the-badge&logo=pandas&logoColor=white)](#)
 [![scikit-learn](https://img.shields.io/badge/scikit−learn-%23F09437.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
-[![Keras](https://img.shields.io/badge/keras-%23C90000.svg?&style=for-the-badge&logo=keras&logoColor=white)](#)
 [![matplotlib](https://img.shields.io/badge/matplotlib-%23DDC359.svg?&style=for-the-badge&logo=plotr&logoColor=white)](#)
+[![Scipy](https://img.shields.io/badge/scipy-%238CAAE6.svg?&style=for-the-badge&logo=scipy&logoColor=white)](#)
+[![Spacy](https://img.shields.io/badge/spacy-%2309A3D5.svg?&style=for-the-badge&logo=spacy&logoColor=white)](#)
+[![Keras](https://img.shields.io/badge/keras-%23C90000.svg?&style=for-the-badge&logo=keras&logoColor=white)](#)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-%23ff6f00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)](#)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://github.com/mianfg?tab=repositories&q=&type=&language=tex)
-[![RStudio](https://img.shields.io/badge/rstudio-%2371A5D4.svg?&style=for-the-badge&logo=rstudio&logoColor=white)](#)
+[![Looker](https://img.shields.io/badge/looker-%234285F4.svg?&style=for-the-badge&logo=looker&logoColor=white)](#)
+[![Opencv](https://img.shields.io/badge/opencv-%235C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white)](#)
+[![Power BI](https://img.shields.io/badge/power%20bi-%23EBC900.svg?&style=for-the-badge&logo=powerbi&logoColor=black)](#)
+
+> **System administration** operating systems and tools
+>
+> [![Docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Ubuntu Server](https://img.shields.io/badge/ubuntu%20server-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)](#)
+[![CentOS](https://img.shields.io/badge/centos-%23262577.svg?&style=for-the-badge&logo=centos&logoColor=white)](#)
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)](#)
+[![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white)](#)
+
+> **Databases**
+>
+> [![Mongodb](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![Mysql](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Sqlite](https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](#)
+
+> **Backend development** frameworks and tools
+>
+> [![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)](#)
+
+> **Frontend development** frameworks and tools
+>
+> [![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)](#)
+[![Tailwindcss](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
+[![Ionic](https://img.shields.io/badge/ionic-%233880FF.svg?&style=for-the-badge&logo=ionic&logoColor=white)](#)
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)](#)
+[![Vue.js](https://img.shields.io/badge/vue.js-%2342B983.svg?&style=for-the-badge&logo=vue.js&logoColor=white)](#)
+[![Jquery](https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)](#)
+[![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)](#)
+
+> **Development tools**
+>
+> [![VScode](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)](#)
+[![Github](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](#)
+[![Eslint](https://img.shields.io/badge/eslint-%234B32C3.svg?&style=for-the-badge&logo=eslint&logoColor=white)](#)
+[![Bitbucket](https://img.shields.io/badge/bitbucket-%230052CC.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)](#)
+[![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?&style=for-the-badge&logo=pytest&logoColor=white)](#)
+[![Rstudio](https://img.shields.io/badge/rstudio-%2375AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=white)](#)
+
+> **Other**
+>
+> [![Notion](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](#)
+[![Slack](https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)](#)
+[![Jira](https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)](#)
 [![Excel](https://img.shields.io/badge/excel-%23026E38.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
 [![PowerPoint](https://img.shields.io/badge/powerpoint-%23CB4424.svg?&style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](#)
-[![Jupyter](https://img.shields.io/badge/jupyter-%23EB7325.svg?&style=for-the-badge&logo=jupyter&logoColor=white)](#)
-[![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](#)
-
-> **Much more stuff** I'm familiar with
-> 
-> [![Ubuntu Server](https://img.shields.io/badge/ubuntu%20server-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)](#)
-[![CentOS](https://img.shields.io/badge/centos-%23262577.svg?&style=for-the-badge&logo=centos&logoColor=white)](#)
-[![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-%23C51A4A.svg?&style=for-the-badge&logo=raspberry-pi&logoColor=white)](#)
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://github.com/mianfg?tab=repositories&q=&type=&language=tex)
+[![Raspberrypi](https://img.shields.io/badge/raspberrypi-%23A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white)](#)
 [![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white)](#)
-[![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-[![Illustrator](https://img.shields.io/badge/illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white)](#)
+[![Puppeteer](https://img.shields.io/badge/puppeteer-%2340B5A4.svg?&style=for-the-badge&logo=puppeteer&logoColor=white)](#)
+[![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white)](#)
+[![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white)](#)
 [![Inkscape](https://img.shields.io/badge/inkscape-%23000000.svg?&style=for-the-badge&logo=inkscape&logoColor=white)](#)
-
-> Things I'm currently **learning**
-> 
-> [![Amazon Web Services](https://img.shields.io/badge/amazon%20web%20services-%23F78A00.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-[![Hadoop](https://img.shields.io/badge/hadoop-%23F7E800.svg?&style=for-the-badge&logo=apachehadoop&logoColor=black)](#)
-[![Docker](https://img.shields.io/badge/docker-%23008DDF.svg?&style=for-the-badge&logo=docker&logoColor=white)](#)
-[![Ansible](https://img.shields.io/badge/ansible-%23191817.svg?&style=for-the-badge&logo=ansible&logoColor=white)](#)
-[![Haskell](https://img.shields.io/badge/haskell-%235D4F85.svg?&style=for-the-badge&logo=haskell&logoColor=white)](#)
-[![Google Cloud](https://img.shields.io/badge/google%20cloud-%234081EC.svg?&style=for-the-badge&logo=googlecloud&logoColor=white)](#)
-[![Power BI](https://img.shields.io/badge/power%20bi-%23EBC900.svg?&style=for-the-badge&logo=powerbi&logoColor=black)](#)
+[![Illustrator](https://img.shields.io/badge/illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white)](#)
