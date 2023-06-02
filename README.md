@@ -85,7 +85,7 @@ I am continuously learning new technologies and platforms. But I also have lots 
 [![Keras](https://img.shields.io/badge/keras-%23C90000.svg?&style=for-the-badge&logo=keras&logoColor=white)](#)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-%23ff6f00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)](#)
 [![Looker](https://img.shields.io/badge/looker-%234285F4.svg?&style=for-the-badge&logo=looker&logoColor=white)](#)
-[![Opencv](https://img.shields.io/badge/opencv-%235C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white)](#)
+[![OpencCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white)](#)
 [![Power BI](https://img.shields.io/badge/power%20bi-%23EBC900.svg?&style=for-the-badge&logo=powerbi&logoColor=black)](#)
 
 > **System administration** operating systems and tools
@@ -99,9 +99,9 @@ I am continuously learning new technologies and platforms. But I also have lots 
 
 > **Databases**
 >
-> [![Mongodb](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![Mysql](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Sqlite](https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)](#)
+> [![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](#)
 
 > **Backend development** frameworks and tools
@@ -141,7 +141,7 @@ I am continuously learning new technologies and platforms. But I also have lots 
 [![Excel](https://img.shields.io/badge/excel-%23026E38.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
 [![PowerPoint](https://img.shields.io/badge/powerpoint-%23CB4424.svg?&style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](#)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://github.com/mianfg?tab=repositories&q=&type=&language=tex)
-[![Raspberrypi](https://img.shields.io/badge/raspberrypi-%23A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white)](#)
+[![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-%23A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white)](#)
 [![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white)](#)
 [![Puppeteer](https://img.shields.io/badge/puppeteer-%2340B5A4.svg?&style=for-the-badge&logo=puppeteer&logoColor=white)](#)
 [![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white)](#)
